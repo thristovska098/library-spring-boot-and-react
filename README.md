@@ -11,7 +11,7 @@ This project performs CRUD operations with library entities.
 After you start the application the server will listen on port 8080 and the client will listen on port 3000.
 
 ### Demo of Sring Boot app 
-* Get all books
+* Get all books  
 HTTP GET localhost:8080/api/books
 
 * Get book with id 2
